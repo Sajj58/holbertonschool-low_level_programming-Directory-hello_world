@@ -1,2 +1,2 @@
 #!/bin/bash
-#include 'C'
+gcc -E $CFILE > c 
